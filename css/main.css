@@ -1,0 +1,11 @@
+p {
+  font-size: 22px;
+  color: blue;
+  text-align: center;
+}
+.wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
